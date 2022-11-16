@@ -3,7 +3,7 @@
 ## Overview of Project
 Steve originally wanted an Excel VBA code script to analyze a dozen rows of data for DQ's stock performance. After learning that DQ was not a good stock to purchase, Steve wanted to start a new project called "All Stocks Analysis" to analyze the entire stock market from 2017 and 2018. The same piece of code was used in the new project but with the exception of a few variable updates. The code was successful but the execution performance was slow for running thousands of data rows instead of a dozen. 
 
-The purpose of this challenge is to refactor the Excel VBA code script of "All stocks Analysis" in order to shorten the time process of performing the code. 
+The purpose of this challenge is to refactor the "All stocks Analysis" Excel VBA code script of in order to shorten the time process of performing the code. 
 
 
 ## Results
@@ -12,7 +12,7 @@ The original code executed the "All Stock Analysis" in 0.55 seconds for 2017 and
 ![VBA_Original_2017](https://user-images.githubusercontent.com/106359564/202310473-1b927a31-80d0-45ac-b4f7-692eb6425be3.png)
 ![VBA_orignal_2018](https://user-images.githubusercontent.com/106359564/202310490-b58eb6a7-9d5c-473b-9238-c0094bcf505d.png)
 
-The refactored code was able to perform in 0.39 seconds for both 2017 and 2018. The chart analysis shows that 2017 had better stock returns with eleven positive increases while 2018 two positive changes. 
+The refactored code was able to perform in 0.39 seconds for both 2017 and 2018. The chart analysis shows that 2017 had better stock returns with eleven positive increases while 2018 only had two positive changes. 
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/106359564/202311009-4ed4a385-ba93-4d89-aae1-f7db556255fa.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/106359564/202311022-526f6c4c-8562-48ba-a5d5-41b2d2704c04.png)
