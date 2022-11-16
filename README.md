@@ -11,9 +11,10 @@ The original code executed the "All Stock Analysis" in 0.55 seconds for 2017 and
 ![VBA_Original_2017](https://user-images.githubusercontent.com/106359564/202310473-1b927a31-80d0-45ac-b4f7-692eb6425be3.png)
 ![VBA_orignal_2018](https://user-images.githubusercontent.com/106359564/202310490-b58eb6a7-9d5c-473b-9238-c0094bcf505d.png)
 
-The refactored code was able to perform in 0.39 seconds for both 2017 and 2018. The chart analysis shows that 2017 had better stock returns with 11 positive increases while 2018 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/106359564/202310517-c2c57510-cdea-42d5-a170-87841d262464.png)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/106359564/202310538-e4b8d8af-c883-4f9b-9c6b-d359f0e0e720.png)
+The refactored code was able to perform in 0.39 seconds for both 2017 and 2018. The chart analysis shows that 2017 had better stock returns with 11 positive increases while 2018.
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/106359564/202310891-a2390c52-c24b-4d9a-8aa8-d28a9f74fcba.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/106359564/202310897-0038ffca-de01-44af-a444-d42d5415ed68.png)
+
 
 The refactored code used a new variable "tickerIndex" and three new output arrays to loop over thousands of data rows.
 ![VBA_Challenge_Script](https://user-images.githubusercontent.com/106359564/202310557-90be945f-3385-4a93-ae70-a9966f256572.png)
