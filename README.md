@@ -12,7 +12,7 @@ The original code executed the "All Stock Analysis" in 0.55 seconds for 2017 and
 ![VBA_Original_2017](https://user-images.githubusercontent.com/106359564/202310473-1b927a31-80d0-45ac-b4f7-692eb6425be3.png)
 ![VBA_orignal_2018](https://user-images.githubusercontent.com/106359564/202310490-b58eb6a7-9d5c-473b-9238-c0094bcf505d.png)
 
-The refactored code was able to perform in 0.39 seconds for both 2017 and 2018. The chart analysis shows that 2017 had better stock returns with 11 positive increases while 2018.
+The refactored code was able to perform in 0.39 seconds for both 2017 and 2018. The chart analysis shows that 2017 had better stock returns with eleven positive increases while 2018 two positive changes. 
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/106359564/202311009-4ed4a385-ba93-4d89-aae1-f7db556255fa.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/106359564/202311022-526f6c4c-8562-48ba-a5d5-41b2d2704c04.png)
